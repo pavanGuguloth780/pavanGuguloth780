@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/pavanGuguloth780/pavanGuguloth780/main/banner.png" width="100%" alt="banner"/>
+  <img src="https://raw.githubusercontent.com/pavanGuguloth780/pavanGuguloth780/main/Pavan Guguloth.png" width="100%" />
 </p>
+
 
 <h1 align="center">👋 Hi, I'm <b>Pavan Guguloth</b></h1>
 <h3 align="center">Python Developer | Backend Engineering | Machine Learning & Computer Vision</h3>
