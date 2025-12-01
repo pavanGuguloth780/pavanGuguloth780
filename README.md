@@ -1,56 +1,56 @@
-<!-- Banner -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/pavanGuguloth780/pavanGuguloth780/main/banner.png" width="100%" alt="banner"/>
 </p>
 
 <h1 align="center">👋 Hi, I'm <b>Pavan Guguloth</b></h1>
-<h3 align="center">Python Developer | Backend Engineer | Machine Learning Enthusiast</h3>
+<h3 align="center">Python Developer | Backend Engineering | Machine Learning & Computer Vision</h3>
 
 ---
 
-## 🚀 About Me
-💡 Aspiring Specialist Programmer passionate about backend engineering & real-time system development  
-🧠 Strong foundation in **Data Structures, Algorithms, and Object-Oriented Programming**  
-🤖 Experienced in building **ML models, computer vision systems & interactive applications**  
-🔧 Skilled in designing **REST APIs** and scalable Python-based solutions  
-📍 Based in **Hyderabad, India**
+## ✨ About Me
+💡 Aspiring Specialist Programmer passionate about building scalable backend systems and real-time intelligent applications  
+🧠 Strong foundation in **Data Structures, Algorithms, and Core CS Fundamentals**  
+🤖 Hands-on experience with **Machine Learning, Computer Vision, and interactive application development**  
+🔧 Skilled in **REST API development, clean code, and problem-solving**  
+📍 Hyderabad, India
 
 ---
 
 ## 🛠 Tech Stack & Tools
-**Languages:** Python, SQL  
-**Machine Learning:** Regression, Classification, Model Evaluation  
-**Computer Vision:** OpenCV, MediaPipe  
-**Libraries:** NumPy, Pandas, Scikit-learn, Matplotlib  
-**Tools:** Git, Linux, Jupyter Notebook, VS Code  
-**Computer Science Fundamentals:** OOP, DBMS, OS, Data Structures
+| Category | Tools |
+|----------|--------|
+| **Languages** | Python, SQL |
+| **ML & CV** | Regression, Classification, Model Evaluation, OpenCV, MediaPipe |
+| **Python Libraries** | NumPy, Pandas, Scikit-learn, Matplotlib |
+| **Tools & IDEs** | VS Code, Git, Linux, Jupyter Notebook |
+| **CS Fundamentals** | OOP, DBMS, OS (Basics), Data Structures |
 
 ---
 
 ## 📌 Featured Projects
 | Project | Description | Tech |
 |---------|------------|-------|
-| 😴 **Driver Drowsiness Detection** | Real-time eye & yawn-tracking safety system with alert audio pipeline | Python, OpenCV |
-| 🏠 **House Price Prediction (ML)** | Regression model with EDA & hyperparameter tuning achieving RMSE < 25K | Pandas, NumPy, Sklearn |
-| 🎨 **Virtual Air Canvas** | Gesture-based drawing tool using hand-tracking & live video | MediaPipe, OpenCV |
-| 🎮 **Tic-Tac-Toe Game** | Interactive 2-player game with clean UI | JavaScript, HTML, CSS |
+| 😴 **Driver Drowsiness Detection System** | Real-time monitoring system using EAR eye tracking & yawn detection with alert audio pipeline | Python, OpenCV, MediaPipe |
+| 🏡 **House Price Prediction** | Regression model built using EDA, feature scaling & hyperparameter tuning, achieving RMSE under 25K | Python, Pandas, NumPy, Sklearn |
+| 🎨 **Virtual Air Canvas (Hand-Tracking)** | Gesture-based real-time drawing tool using fingertip detection and brush control | OpenCV, MediaPipe |
+| 🎮 **Tic-Tac-Toe Game** | Interactive UI-based JavaScript game | HTML, CSS, JS |
 
 ---
 
-## 📈 GitHub Stats
+## 📈 GitHub & Coding Stats
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=pavanGuguloth780&theme=dark" height="150"/>
-<img src="https://github-readme-stats.vercel.app/api?username=pavanGuguloth780&show_icons=true&theme=dark" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pavanGuguloth780&theme=dark" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=pavanGuguloth780&show_icons=true&theme=dark" height="150"/>
 </p>
 
 ---
 
-## 🏆 Certifications
-- Machine Learning with Python — IBM  
+## 🏅 Certifications
+- Machine Learning with Python – IBM  
 - Google Machine Learning Crash Course  
-- Kaggle ML — Introduction to Machine Learning  
-- TensorFlow Developer (Audit) — DeepLearning.AI  
-- MySQL HeatWave Implementation Certified — Oracle University
+- Introduction to ML – Kaggle  
+- TensorFlow Developer (Audit) – DeepLearning.AI  
+- MySQL HeatWave Certified Associate – Oracle University
 
 ---
 
@@ -69,4 +69,4 @@
 
 ---
 
-⭐ *If you find my projects helpful, consider giving them a star!*
+⭐ *If my projects inspire you, feel free to star the repositories!*
